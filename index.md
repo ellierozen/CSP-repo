@@ -4,8 +4,12 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Ellie's Blog 
+Hi my name is Ellie and I play water polo! I was born in San Diego and I love my dog Charlie <3
+![]({{site.baseurl}}/images/fastpage-collage.png "https://www.google.com")
+
+![](https://i.imgur.com/LiXJcY4.jpg)
+
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
