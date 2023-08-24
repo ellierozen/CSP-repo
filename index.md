@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## <font color="#A43CD3"> Ellie's Blog</font>
+## <font color="#00b4d8"> Ellie's Blog</font>
 
 
 Hi my name is Ellie and I play water polo! I was born in San Diego and I love my dog Charlie <3
